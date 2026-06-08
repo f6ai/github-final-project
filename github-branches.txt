@@ -1,0 +1,8 @@
+$ git branch -a -v
+
+  bug-fix-revert                d03cb92 revert bug fix
+  bug-fix-typo                  33da8aa fix typo in README.md
+* main                          c3bac46 add file big-fix-revert
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert d03cb92 revert bug fix
+  remotes/origin/main           c3bac46 add file big-fix-revert
